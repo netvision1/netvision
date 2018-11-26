@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## HOW TO CONNECT YOUR OWN DOMAIN TO GITHUB (THIS IS ONLY A TEST BLOG - STILL UNDER CONSTRUCTION)
 
-You can use the [editor on GitHub](https://github.com/netvision1/netvision/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+In this tutorrial, i want to show you how to host your own domain name and using GitHub as a Hosting.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Let say you already have your own domain name, if you don't, you can register your own domain
 
 ### Markdown
 
